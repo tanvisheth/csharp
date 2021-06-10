@@ -1,0 +1,19 @@
+E:\Project\Jewellery Managment\Jewellery Managment\bin\Debug\Jewellery Managment.exe
+E:\Project\Jewellery Managment\Jewellery Managment\bin\Debug\Jewellery Managment.pdb
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.Properties.Resources.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery Managment.csproj.GenerateResource.Cache
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery Managment.exe
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery Managment.pdb
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.Login.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery Managment.csprojResolveAssemblyReference.cache
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.SignUp.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.Home.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.AdminHome.resources
+E:\Project\Jewellery Managment\Jewellery Managment\bin\Debug\Jewellery Managment.exe.config
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.AddProduct.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.DeleteProduct.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.UpdateProduct.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.UserRecord.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.AddEmployee.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.UserHome.resources
+E:\Project\Jewellery Managment\Jewellery Managment\obj\x86\Debug\Jewellery_Managment.ViewProducts.resources
